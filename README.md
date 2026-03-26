@@ -1,5 +1,10 @@
 # 🧪 Projet QA – Test exploratoire & UX (SauceDemo)
 
+## 🎥 Démonstration vidéo
+
+Lien de démonstration du test exploratoire réalisé sur SauceDemo :
+https://www.loom.com/share/d822112efc3f47c188486787e8e45802
+
 ## 🎯 Contexte
 
 Ce projet consiste en une simulation de mission QA réalisée sur un site réel de démonstration e-commerce : https://www.saucedemo.com
