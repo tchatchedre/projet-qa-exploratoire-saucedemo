@@ -4,6 +4,9 @@
 
 - Le message d’erreur est peu visible
 - Aucun indicateur sur les contraintes de mot de passe
+- connexion valide réussie
+redirection correcte vers la liste produits
+interface simple et lisible
 
 ---
 
