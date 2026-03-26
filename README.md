@@ -10,8 +10,8 @@ L’objectif est de réaliser des tests exploratoires afin d’identifier des an
 
 ## 🎥 Démonstration vidéo
 
-Lien de démonstration du test exploratoire réalisé sur SauceDemo :
-https://www.loom.com/share/d822112efc3f47c188486787e8e45802
+👉 Présentation du test exploratoire réalisé sur SauceDemo :  
+(https://www.loom.com/share/d822112efc3f47c188486787e8e45802)
 
 ---
 
@@ -30,6 +30,20 @@ https://www.loom.com/share/d822112efc3f47c188486787e8e45802
 - Navigation produits
 - Ajout au panier
 - Processus de commande (checkout)
+
+---
+
+## 📸 Exemples de tests réalisés
+
+### 🔐 Test de connexion
+
+![Test connexion](screenshots/Capture_test_connexion.png.JPG)
+
+---
+
+### ❌ Test d’erreur de connexion
+
+![Erreur connexion](screenshots/Capture_test_connexion_msg_erreur.png.JPG)
 
 ---
 
@@ -59,7 +73,7 @@ Les tests ont permis d’identifier plusieurs anomalies critiques et majeures :
 - incohérences visuelles
 - problèmes de feedback utilisateur
 
-Ces anomalies impactent directement l’expérience utilisateur et la capacité à finaliser une commande.
+Ces anomalies impactent directement l’expérience utilisateur et empêchent la finalisation d’une commande.
 
 ---
 
